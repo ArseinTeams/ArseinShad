@@ -3,16 +3,12 @@
 > Elegant, modern and asynchronous Shad MTProto API framework in Python for users and bots
 
 <p align="center">
-
     <img src="https://s6.uupload.ir/files/img_20240111_123815_369_5ni9.jpg" alt="ArseinShad" width="128">
-
     <br>
-
     <b>library Arsein Shad</b>
-
     <br>
-
 </p>
+
 
 ###  Arsein library documents soon...
 
