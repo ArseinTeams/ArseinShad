@@ -1,10 +1,6 @@
 ## ArseinShad
 
-
-
 > Elegant, modern and asynchronous Shad MTProto API framework in Python for users and bots
-
-
 
 <p align="center">
 
@@ -18,49 +14,30 @@
 
 </p>
 
-
-
 ###  Arsein library documents soon...
-
-
-
 
 
 ### How to import the Shad's library
 
-
-
-``` bash
+``` python
 
 from arsein_shad import Messenger
 
-
-
 Or
-
-
 
 from arsein_shad import Robot_Shad
 
 ```
 
-
-
 ### How to import the anti-advertising class
 
-
-
-``` bash
+``` python
 
 from arsein_shad.Zedcontent import Antiadvertisement
 
 ```
 
-
-
 ### How to install the library
-
-
 
 ``` bash
 
@@ -68,11 +45,7 @@ pip install arseinshad==1.0.0
 
 ```
 
-
-
 ### My ID in Telegram
-
-
 
 ``` bash
 
@@ -86,21 +59,13 @@ pip install arseinshad==1.0.0
 
 from arsein_shad import Messenger
 
-
-
 bot = Messenger("Your Auth Account"," key Account")
 
-
-
 gap = "your guid or gap or pv or channel"
-
-
 
 bot.sendMessage(gap,"libraryArsein")
 
 ```
-
-
 
 ## And Or:
 
@@ -108,21 +73,13 @@ bot.sendMessage(gap,"libraryArsein")
 
 from arsein_shad import Robot_Shad
 
-
-
 bot = Robot_Shad("Your Auth Account"," key Account")
 
-
-
 gap = "your guid or gap or pv or channel"
-
-
 
 bot.sendMessage(gap,"libraryArsein")
 
 ```
-
-
 
 ## Or if the privatekey was decoded under the web
 
@@ -130,27 +87,15 @@ bot.sendMessage(gap,"libraryArsein")
 
 from arsein_shad import Messenger
 
-
-
 bot = Messenger("Your Auth Account"," key Account","web")
 
-
-
 gap = "your guid or gap or pv or channel"
-
-
 
 bot.sendMessage(gap,"libraryArsein")
 
 ```
 
-
-
-
-
 ### Installing
-
-
 
 ``` bash
 
@@ -158,15 +103,9 @@ pip install arseinshad==1.0.0
 
 ```
 
-
-
 ### Or
 
-
-
 > And if pip was filtered, enter the following code in the terminal to install the library
-
-
 
 ``` bash
 
@@ -174,27 +113,14 @@ pip install --trusted-host https://pypi.tuna.tsinghua.edu.cn -i https://pypi.tun
 
 ```
 
-
-
-
-
 Made by Team ArianBot
 
-
-
 Address of our team's GitHub :
-
-
 
 https://github.com/Arseinlibrary/Arsein__library.git
 
 
-
-
-
 ### Key Features
-
-
 
 - **Ready**: Install ArseinShad with pip and start building your applications right away.
 
@@ -209,12 +135,7 @@ https://github.com/Arseinlibrary/Arsein__library.git
 - **Powerful**: Full access to Shad's API to execute any official client action and more.
 
 
-
-
-
 ### Our channel in messengers
-
-
 
 ``` bash
 
